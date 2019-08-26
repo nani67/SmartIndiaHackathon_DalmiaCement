@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "161708119594",
+    "firebase_url": "https://dalmiacement-deb0e.firebaseio.com",
+    "project_id": "dalmiacement-deb0e",
+    "storage_bucket": "dalmiacement-deb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161708119594:android:c197410987c8f26c",
+        "android_client_info": {
+          "package_name": "riya.kavya.khair.malavika.divya.nani.dalmiacementbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161708119594-7q823p5hj6vaf77sa5cbm3d2nkcu76a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "riya.kavya.khair.malavika.divya.nani.dalmiacementbot",
+            "certificate_hash": "a626a5a96c51b093269a5b6fc488b44a97b9d950"
+          }
+        },
+        {
+          "client_id": "161708119594-b4g73ksg2k4api6c2m5p0bk43cploemf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "riya.kavya.khair.malavika.divya.nani.dalmiacementbot",
+            "certificate_hash": "0f132c1258f1c563359be370efe84449ff6058eb"
+          }
+        },
+        {
+          "client_id": "161708119594-1a0iepivrbqbacafjkokj4442so19q4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWpQD8i9oEkthio3UvaCxdJnSpMBZ7hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161708119594-q8o5knlgltqhsjak6fd0d2r7o2m46jaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">161708119594-1a0iepivrbqbacafjkokj4442so19q4k.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://dalmiacement-deb0e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">161708119594</string>
+    <string name="google_api_key" translatable="false">AIzaSyCbWpQD8i9oEkthio3UvaCxdJnSpMBZ7hc</string>
+    <string name="google_app_id" translatable="false">1:161708119594:android:c197410987c8f26c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCbWpQD8i9oEkthio3UvaCxdJnSpMBZ7hc</string>
+    <string name="google_storage_bucket" translatable="false">dalmiacement-deb0e.appspot.com</string>
+    <string name="project_id" translatable="false">dalmiacement-deb0e</string>
+</resources>

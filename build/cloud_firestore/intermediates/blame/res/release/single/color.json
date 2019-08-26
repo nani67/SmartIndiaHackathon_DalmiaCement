@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nani\\Desktop\\SmartIndiaHackathon_DalmiaBot\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Nani\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\b023aada598e17a08de7b465575f54ef\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nani\\Desktop\\SmartIndiaHackathon_DalmiaBot\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Nani\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\b023aada598e17a08de7b465575f54ef\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nani\\Desktop\\SmartIndiaHackathon_DalmiaBot\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Nani\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\b023aada598e17a08de7b465575f54ef\\res\\color\\common_google_signin_btn_text_light.xml"
+    }
+]
