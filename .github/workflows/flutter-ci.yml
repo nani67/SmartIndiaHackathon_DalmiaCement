@@ -32,11 +32,6 @@ jobs:
     
     # Check for any formatting issues in the code.
         
-    # Statically analyze the Dart code for any errors.
-    - run: flutter analyze .
-    
-    # Run widget tests for our flutter project.
-    - run: flutter test
     
     # Build apk.
     - run: flutter build apk
