@@ -1,9 +1,10 @@
-cloud_firestore=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.8.0\\
-firebase_auth=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.7.0\\
-firebase_core=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.2.5+1\\
-flutter_search_panel=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_search_panel-1.0.0\\
-google_sign_in=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_sign_in-4.0.1+1\\
-location=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\location-2.0.0\\
-simple_permissions=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\simple_permissions-0.1.9\\
-speech_recognition=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\speech_recognition-0.3.0+1\\
-tts=C:\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\tts-1.0.2\\
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.8.0/
+firebase_auth=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.7.0/
+firebase_core=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.2.5+1/
+flutter_search_panel=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_search_panel-1.0.1/
+google_sign_in=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.0.1+1/
+location=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/location-2.0.0/
+simple_permissions=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/simple_permissions-0.1.9/
+speech_recognition=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/speech_recognition-0.3.0+1/
+tts=/home/nandroid/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/tts-1.0.2/
